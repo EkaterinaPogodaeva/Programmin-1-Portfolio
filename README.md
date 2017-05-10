@@ -1,7 +1,8 @@
 # Programming-1-Portfolio
 ## Katya Pogodaeva 2017
 
-You can use the [editor on GitHub](https://github.com/EkaterinaPogodaeva/Programmin-1-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Inline-style: 
+![alt text](https://github.com/EkaterinaPogodaeva/Programmin-1-Portfolio/settings/pic.png "Logo Title Text 1")
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
