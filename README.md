@@ -5,6 +5,12 @@ Inline-style:
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/calc.png "Logo Title Text 1")
 Inline-style: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/temp.png "Logo Title Text 1")
+Inline-style: 
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/planet.png "Logo Title Text 1")
+Inline-style: 
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screensave.png "Logo Title Text 1")
+Inline-style: 
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/cars.png "Logo Title Text 1")
 
 
 
