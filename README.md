@@ -2,7 +2,7 @@
 ## Katya Pogodaeva 2017
 
 Inline-style: 
-![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/cars.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/calc.png "Logo Title Text 1")
 
 
 
