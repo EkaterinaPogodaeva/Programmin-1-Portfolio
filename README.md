@@ -5,16 +5,16 @@ Inline-style:
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/cars.png "Logo Title Text 1")
 
 Inline-style: 
-![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/planet.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/planet.png "Logo Title Text 2")
 
 Inline-style: 
-![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/temp.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/temp.png "Logo Title Text 3")
 
 Inline-style: 
-![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/calc.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/calc.png "Logo Title Text 4")
 
 Inline-style: 
-![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/screensave.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/screensave.png "Logo Title Text 5")
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
