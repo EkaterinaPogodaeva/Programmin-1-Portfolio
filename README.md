@@ -19,7 +19,7 @@ Cars:
 
 ## **_Final Project_**
 ### Jeopardy Game
-For our final project this year we as a group decided to make a Jeopardy Game. Jeopardy game, is an interesting trivia game with 9 categories, and 5 questions in each category. Categories include:Music,Science Technology, Movies, Literature, History, Art, Sport, and Geography .Each question is a multiple choice. player will select the category and will be given a question to answer. Created by Srah Wallgren, Morgan Hurley, and Katya Pogodaeva.
+For our final project this year we as a group decided to make a Jeopardy Game. Jeopardy game, is an interesting trivia game with 9 categories, and 5 questions in each category. Categories include:Music,Science Technology, Movies, Literature, History, Art, Sport, and Geography .Each question is a multiple choice. player will select the category and will be given a question to answer. Created by Sarah Wallgren, Morgan Hurley, and Katya Pogodaeva.
 
 Mockup: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/mockup1.png "Logo Title Text 1")
