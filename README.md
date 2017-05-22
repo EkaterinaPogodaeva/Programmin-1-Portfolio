@@ -38,6 +38,7 @@ Syntax highlighted code block
 ```
 ## Project
 ### Jeopardy Game
+Jeopardy game, is an interesting trivia game with 9 categories, and 5 questions in each category.categories include:Music,Science Technology, Movies, Literature, History, Art, Sport, and Geography .Each question is a multiple cjoice question. 
 
 Mockup: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/mockup1.png "Logo Title Text 1")
