@@ -56,10 +56,10 @@ Source Code:
 Source Code: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/Sourcecode2.png "Logo Title Text 1")
 
-####### Jekyll Themes
+###### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EkaterinaPogodaeva/Programmin-1-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-####### Support or Contact
+###### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
