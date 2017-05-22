@@ -39,7 +39,10 @@ Syntax highlighted code block
 ## Project
 ### Jeopardy Game
 
-
+Inline-style: 
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/mockup1.png "Logo Title Text 1")
+Inline-style: 
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/mockup2.png "Logo Title Text 1")
 
 ### Jekyll Themes
 
