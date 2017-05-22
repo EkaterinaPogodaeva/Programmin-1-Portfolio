@@ -1,5 +1,6 @@
 # Programming-1-Portfolio
 ## Katya Pogodaeva 2017
+### k.pogodaeva2012@gmail.com
 
 Inline-style: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/calc.png "Logo Title Text 1")
