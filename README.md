@@ -2,15 +2,15 @@
 ## Katya Pogodaeva 2017
 ### k.pogodaeva2012@gmail.com
 
-Inline-style: 
+Calculator: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/calc.png "Logo Title Text 1")
-Inline-style: 
+Temperature-converter: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/temp.png "Logo Title Text 1")
-Inline-style: 
+Planet Game: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/planet.png "Logo Title Text 1")
-Inline-style: 
+Screen Saver: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screensave.png "Logo Title Text 1")
-Inline-style: 
+Cars: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/cars.png "Logo Title Text 1")
 
 
