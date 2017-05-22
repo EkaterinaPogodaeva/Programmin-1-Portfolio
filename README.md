@@ -15,23 +15,6 @@ Cars:
 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ## **_Project_**
 ### Jeopardy Game
 For our final project this year we as a group decided to make a Jeopardy Game. Jeopardy game, is an interesting trivia game with 9 categories, and 5 questions in each category. Categories include:Music,Science Technology, Movies, Literature, History, Art, Sport, and Geography .Each question is a multiple choice. player will select the category and will be given a question to answer.
