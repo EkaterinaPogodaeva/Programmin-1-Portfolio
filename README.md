@@ -7,15 +7,19 @@ Throughout the year we were creating multiple applications, including the ones b
 Calculator: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/calc.png "Logo Title Text 1")
 This aplication is a Calculator, that can do basic calculator functions like division and multiplication,also having additional functions like x^2.
+
 Temperature-converter: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/temp.png "Logo Title Text 1")
 Temperature-converter application converts Celcium degrees, to the Fahrenhiet. 
+
 Planet Game: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/planet.png "Logo Title Text 1")
 Planet Game, is a game application, where the goal is to destroy falling planets and rocks.
+
 Screen Saver: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screensave.png "Logo Title Text 1")
 This applications is a Screen Saver, that can be apploaded to every computer.
+
 Cars: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/cars.png "Logo Title Text 1")
 Cars application is the similar to the Screen Saver that can be uploaded to every computer.
