@@ -58,6 +58,7 @@ Questions:
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/Authorfile3.png "Logo Title Text 1")
 Questions for our applications, which were created in the Illustrator.
 
+
 Source Code:
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/sourcecode.png "Logo Title Text 1")
 Source code for our program was written in the Processing. Each group member contrubuted to the code, rather it was a research of the similar application or a writing of the actuall code.
