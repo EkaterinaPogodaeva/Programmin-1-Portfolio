@@ -39,7 +39,7 @@ Syntax highlighted code block
 ## Project
 ### Jeopardy Game
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
