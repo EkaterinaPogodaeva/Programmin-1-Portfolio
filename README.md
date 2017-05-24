@@ -1,6 +1,8 @@
 # _Programming-1-Portfolio_
 ## _Katya Pogodaeva 2017_
 ### k.pogodaeva2012@gmail.com
+https://github.com/EkaterinaPogodaeva/Programmin-1-Portfolio/
+
 ## _Projects_
 Throughout the year we were creating multiple applications, including the ones below.
 
