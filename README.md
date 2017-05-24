@@ -10,14 +10,21 @@ This aplication is a Calculator, that can do basic calculator functions like div
 
 Temperature-converter: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/temp.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/temp1.png "Logo Title Text 1")
 Temperature-converter application converts Celcium degrees, to the Fahrenhiet. 
 
 Planet Game: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/planet.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/planplanet.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/plan1.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/plan2.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/plan3.png "Logo Title Text 1")
 Planet Game, is a game application, where the goal is to destroy falling planets and rocks.
 
 Screen Saver: 
 ![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screensave.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screenline.png "Logo Title Text 1")
+![alt text](https://ekaterinapogodaeva.github.io/Programmin-1-Portfolio/images/screen.png "Logo Title Text 1")
 This applications is a Screen Saver, that can be apploaded to every computer.
 
 Cars: 
